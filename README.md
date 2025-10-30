@@ -1,1 +1,3 @@
-# data-public-API
+Task 7:Fetch and Display Data from a Public API Using Fetch API
+
+In this project, I created a dynamic webpage that fetches and displays user data from a public API using the JavaScript Fetch API. The application retrieves information such as user names, emails, and addresses from the endpoint https://jsonplaceholder.typicode.com/users and displays them in a responsive card layout. The project includes features like a “Reload Data” button to refetch data, real-time loading messages, and error handling for network issues. HTML was used for the structure, CSS for styling, and JavaScript for fetching and displaying the data dynamically. This project helped me understand how to work with APIs, handle JSON data, and build interactive web pages using JavaScript.
